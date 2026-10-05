@@ -1,0 +1,11 @@
+html { scroll-behavior: smooth; }
+body { color: #173d34; }
+.navbar-brand { color: #173d34; }
+.hero-section { background: #edf6f0; }
+.eyebrow { font-size: .75rem; font-weight: 700; letter-spacing: 1.4px; color: #28775e; }
+.btn-primary { --bs-btn-bg: #20664f; --bs-btn-border-color: #20664f; --bs-btn-hover-bg: #174b3a; --bs-btn-hover-border-color: #174b3a; --bs-btn-active-bg: #174b3a; --bs-btn-active-border-color: #174b3a; }
+.features { background: #f5f8f4; }
+.card { border-color: #dce8df; border-radius: 14px; }
+.feature-icon { display: inline-flex; width: 48px; height: 48px; align-items: center; justify-content: center; border-radius: 12px; font-size: 28px; background: #e5f1e8; color: #20664f; }
+.footer { color: #dbece1; background: #173d34; }
+section { scroll-margin-top: 20px; }
